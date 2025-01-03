@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusrahersi
 - 👀 I’m interested in creating new projects, experimenting with new coding languages, and collaborating with others
-- 🌱 I’m currently learning C, C++
+- 🌱 I’m currently working with Java, JavaScript, SpringBoot, Rest API, CSS, C++/C, Python, OCaml, and HTML.
 - 📫 How to reach me Yusrahersi03@gmail.com
 - 
 <!---
